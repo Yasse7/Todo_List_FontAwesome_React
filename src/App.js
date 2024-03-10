@@ -1,5 +1,4 @@
  import './App.css';
-import TodoForm from './Components/TodoForm';
 import TodoWrapper from './Components/Todowrapper'
 
 function App() {
